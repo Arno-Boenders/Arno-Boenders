@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/arno-boenders-816117228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://arnoboenders.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
+  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Arno-Boenders&style=flat-square&color=blue" alt=""/>
@@ -33,6 +36,7 @@ I'm currently in my first year of graduate studies at Arteveldehogeschool, worki
 - 📫 How to reach me:
   - Email: arnoboenders@gmail.com
   - LinkedIn: https://www.linkedin.com/in/arno-boenders-816117228/
+  - Portfolio: https://arnoboenders.com/
 - 🎓 Education:
   - Graduate in Programming, Arteveldehogeschool (2023 - Present)
 
@@ -49,7 +53,8 @@ I'm currently in my first year of graduate studies at Arteveldehogeschool, worki
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
