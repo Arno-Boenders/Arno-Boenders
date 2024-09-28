@@ -27,8 +27,9 @@
 I'm currently in my first year of graduate studies at Arteveldehogeschool, working hard to become a skilled Full-Stack Developer. I have a passion for learning and creating, which drives my studies and projects.
 
 - 🌱 I’m currently learning:
-  - Javascript
-  - Nodejs 
+  - TypeScript
+  - Next.js
+  - PHP
 - 📫 How to reach me:
   - Email: arnoboenders@gmail.com
   - LinkedIn: https://www.linkedin.com/in/arno-boenders-816117228/
