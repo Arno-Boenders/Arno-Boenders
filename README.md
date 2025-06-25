@@ -24,17 +24,14 @@
 
 ### :man_technologist: About Me :
 
-I'm currently in my first year of graduate studies at Arteveldehogeschool, working hard to become a skilled Full-Stack Developer. I have a passion for learning and creating, which drives my studies and projects.
+I just graduated from my graduate studies at Arteveldehogeschool, working hard to become a skilled Full-Stack Developer.
 
-- 🌱 I’m currently learning:
-  - TypeScript
-  - Next.js
-  - PHP
 - 📫 How to reach me:
   - Email: arnoboenders@gmail.com
   - LinkedIn: https://www.linkedin.com/in/arno-boenders-816117228/
 - 🎓 Education:
-  - Graduate in Programming, Arteveldehogeschool (2023 - Present)
+  - Bachelor Electronics & ICT, Odisee (2020 - 2023 [not finished])
+  - Graduate in Programming, Arteveldehogeschool (2023 - 2025)
 
 ---
 
@@ -47,7 +44,6 @@ I'm currently in my first year of graduate studies at Arteveldehogeschool, worki
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJs" alt="VueJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
